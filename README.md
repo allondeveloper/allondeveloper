@@ -13,6 +13,8 @@ Hi guys I'm Allon :imp:
 ][youtube]
 [<img height="15" width="" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />
 ][instagram]
+[<img height="15" width="25" src="https://unpkg.com/simple-icons@v7/icons/nike.svg" />
+][nike]
 
 ### languages
 
