@@ -11,7 +11,7 @@ Hi guys I'm Allon :imp:
 ][discord]
 [<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" />
 ][youtube]
-[<img height="15" width="" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />
+[<img height="15" width="25" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />
 ][instagram]
 [<img height="15" width="25" src="https://unpkg.com/simple-icons@v7/icons/nike.svg" />
 ][nike]
