@@ -9,7 +9,7 @@ Hi guys I'm Allon :imp:
 
 [<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/discord.svg" />
 ][discord]
-[<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />
+[<img height="25" width="0" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" />
 ][instagram]
 [<img height="25" width="25" src="https://unpkg.com/simple-icons@v7/icons/youtube.svg" />
 ][youtube]
