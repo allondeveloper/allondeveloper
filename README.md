@@ -32,7 +32,3 @@ Hi guys I'm Allon :imp:
 [instagram]: https://www.instagram.com/allon47128/
 [discord]: https://discord.gg/espinoza
 [nike]: https://discord.gg/espinoza
-
-
-
-
